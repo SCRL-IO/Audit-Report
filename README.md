@@ -7,4 +7,5 @@ Professional security audits and assessments along with professional reports wit
 ![Security Audit Result (12)](https://user-images.githubusercontent.com/111109564/185667007-f7132712-d5cb-4ce6-a315-ed446ae6fd98.png)
 <center><B>How to verified certificate or report?</b></center>
 
-![Securi Verified true cerificate or report](https://user-images.githubusercontent.com/111109564/185673966-6bae33f0-f709-48ec-8436-6f621a2d6dab.png)
+![Securi Verified true cerificate or report (1)](https://user-images.githubusercontent.com/111109564/187062804-d2e68294-38cb-4133-a672-d09e4889359e.png)
+

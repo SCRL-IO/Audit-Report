@@ -9,3 +9,6 @@ Professional security audits and assessments along with professional reports wit
 
 ![Securi Verified true cerificate or report (1)](https://user-images.githubusercontent.com/111109564/187062804-d2e68294-38cb-4133-a672-d09e4889359e.png)
 
+[SECURI REPORT TEMPLATE VERSIONS CHANGE LOG]</br>
+Version 1.0 - Including standard report with Qr-code</br>
+Version 1.1 - Add E-Signature digital sign on page 'Report Information'</br>

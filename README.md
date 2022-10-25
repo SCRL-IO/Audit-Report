@@ -9,7 +9,8 @@ Professional security audits and assessments along with professional reports wit
 
 <center><B>How to verified certificate or report?</b></center>
 
-![Securi Verified true cerificate or report (1)](https://user-images.githubusercontent.com/111109564/187062804-d2e68294-38cb-4133-a672-d09e4889359e.png)
+![Securi Verified true cerificate or report (2)](https://user-images.githubusercontent.com/111109564/197774371-f24f4b81-2b3f-425c-b4e7-dd8341d93234.png)
+
 
 [SECURI REPORT TEMPLATE VERSIONS CHANGE LOG]</br>
 Version 1.0 - Including standard report with Qr-code</br>

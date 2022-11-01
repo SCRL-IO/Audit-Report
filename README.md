@@ -10,7 +10,6 @@ Professional security audits and assessments along with professional reports wit
 Learning more about NVD CVSS https://nvd.nist.gov/vuln-metrics/cvss </br>
 ![Security Audit NVD Scoring (1)](https://user-images.githubusercontent.com/111109564/199161247-c0c396de-81fa-4bc1-97ee-ec808ef9bc65.png)</br>
 
-
 <center><B>How to verified certificate or report?</b></center></br>
 
 ![Securi Verified true cerificate or report (2)](https://user-images.githubusercontent.com/111109564/197774371-f24f4b81-2b3f-425c-b4e7-dd8341d93234.png)

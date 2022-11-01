@@ -7,10 +7,10 @@ Professional security audits and assessments along with professional reports wit
 ![Security Audit Result (32)](https://user-images.githubusercontent.com/111109564/197769548-434a7f96-b8fc-47e5-b720-fefbf83c785d.png)
 ![Security Audit Result (33)](https://user-images.githubusercontent.com/111109564/197769591-5e72db04-4b23-4bb1-96dc-cb474b53e10f.png)
 <center><B>CVSS NVD Scoring</b></center></br>
-Learning more about NVD CVSS https://nvd.nist.gov/vuln-metrics/cvss </br>
-![Security Audit NVD Scoring (1)](https://user-images.githubusercontent.com/111109564/199161247-c0c396de-81fa-4bc1-97ee-ec808ef9bc65.png)</br>
+<br><center>Learning more about NVD CVSS https://nvd.nist.gov/vuln-metrics/cvss </center></br>
+<br>![Security Audit NVD Scoring (1)](https://user-images.githubusercontent.com/111109564/199161247-c0c396de-81fa-4bc1-97ee-ec808ef9bc65.png)
 
-<center><B>How to verified certificate or report?</b></center></br>
+<br><center><B>How to verified certificate or report?</b></center></br>
 
 ![Securi Verified true cerificate or report (2)](https://user-images.githubusercontent.com/111109564/197774371-f24f4b81-2b3f-425c-b4e7-dd8341d93234.png)
 

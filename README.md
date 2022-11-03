@@ -19,5 +19,5 @@ Professional security audits and assessments along with professional reports wit
 [SECURI REPORT TEMPLATE VERSIONS CHANGE LOG]</br>
 Version 1.0 - Including standard report with Qr-code</br>
 Version 1.1 - Add E-Signature digital sign on page 'Report Information'</br>
-Version 1.2 - Add NVD Score (Common Vulnerability Scoring System) under NIST (National Institute of Standards and Technology) standard
-Version 1.3 - RE-Design SECURI LAB Audit Template & Improve Document Format
+Version 1.2 - Add NVD Score (Common Vulnerability Scoring System) under NIST (National Institute of Standards and Technology) standard</br>
+Version 1.3 - RE-Design SECURI LAB Audit Template & Improve Document Format</br>

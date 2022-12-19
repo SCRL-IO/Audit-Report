@@ -1,5 +1,6 @@
 # Audit-Report
-![SECURI Audit (3)](https://user-images.githubusercontent.com/111109564/197771156-aae12cb2-8244-4c60-9067-094d3dbeba7d.png)
+![SECURI Audit (8)](https://user-images.githubusercontent.com/111109564/208459420-b0fec5d3-9ffe-44e7-80f1-08c4d8ee33dd.png)
+
 
 Professional security audits and assessments along with professional reports with intense inspection Delve into every detail With a graph showing the linkage of functions and checking for editing/mutation/delegation capability of various functions
 !<center><B>Audit Result Rating</b></center>

@@ -1,20 +1,12 @@
 # Audit-Report
-![SECURI Audit (8)](https://user-images.githubusercontent.com/111109564/208459420-b0fec5d3-9ffe-44e7-80f1-08c4d8ee33dd.png)
+![Request audit (17)](https://user-images.githubusercontent.com/111109564/231672081-48f59aae-9406-4e8b-8f4e-3135fa2836e4.png)
+![All Detector Product (1)](https://user-images.githubusercontent.com/111109564/231672174-6e98b296-3488-435a-8b6c-995276691d27.png)
+![Performance WAS Product (2)](https://user-images.githubusercontent.com/111109564/231672223-fafb80f1-a60a-44ff-9f56-4516b789085a.png)
+
+
 
 
 Professional security audits and assessments along with professional reports with intense inspection Delve into every detail With a graph showing the linkage of functions and checking for editing/mutation/delegation capability of various functions
-!<center><B>Audit Result Rating</b></center>
-![Security Audit Result (31)](https://user-images.githubusercontent.com/111109564/197769445-56158a92-4fdf-4097-9517-ac9e312a97ab.png)
-![Security Audit Result (32)](https://user-images.githubusercontent.com/111109564/197769548-434a7f96-b8fc-47e5-b720-fefbf83c785d.png)
-![Security Audit Result (33)](https://user-images.githubusercontent.com/111109564/197769591-5e72db04-4b23-4bb1-96dc-cb474b53e10f.png)
-<center><B>CVSS NVD Scoring</b></center></br>
-
-![Security Audit NVD Scoring (1)](https://user-images.githubusercontent.com/111109564/199162556-a2f3eba5-2558-482b-bde2-b1c9737ba9b7.png)
-
-
-<br><center><B>How to verified certificate or report?</b></center></br>
-
-![Securi Verified true cerificate or report (2)](https://user-images.githubusercontent.com/111109564/197774371-f24f4b81-2b3f-425c-b4e7-dd8341d93234.png)
 
 
 [SECURI REPORT TEMPLATE VERSIONS CHANGE LOG]</br>

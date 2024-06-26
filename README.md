@@ -1,9 +1,12 @@
 # Audit-Report
 
+![Smart Contract Audit (1)](https://github.com/SECURI-Cybersecurity-Audit-KYC/Audit-Report/assets/111109564/0c051805-655c-4afd-ae61-f67ec23af962)
 
 
 
 Professional security audits and assessments along with professional reports with intense inspection Delve into every detail With a graph showing the linkage of functions and checking for editing/mutation/delegation capability of various functions
+
+![Twitter Cover (2)](https://github.com/SECURI-Cybersecurity-Audit-KYC/Audit-Report/assets/111109564/9651bb73-2911-46d8-98b8-454f65278ed0)
 
 
 [SECURI REPORT TEMPLATE VERSIONS CHANGE LOG]</br>
